@@ -19,7 +19,7 @@ rpg-terminal/
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/rpg-terminal.git
+   git clone https://github.com/gontin/terminal-rpg.git
    cd rpg-terminal
    ```
 
