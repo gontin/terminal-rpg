@@ -78,14 +78,6 @@ rpg-terminal/
 
 ---
 
-## 👤 Autor
-
-**Gustavo Silveira Nicoletti**
-Desenvolvedor Full Stack
-[GitHub - gontin](https://github.com/gontin)
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo, modificá-lo e distribuí-lo.
